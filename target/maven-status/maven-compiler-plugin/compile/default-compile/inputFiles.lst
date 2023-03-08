@@ -1,0 +1,8 @@
+/home/juan/laboratorio/appengine1/src/main/java/com/example/demo/ServletInitializer.java
+/home/juan/laboratorio/appengine1/src/main/java/com/example/demo/controllers/UsuarioController.java
+/home/juan/laboratorio/appengine1/src/main/java/com/example/demo/DemoApplication.java
+/home/juan/laboratorio/appengine1/src/main/java/com/example/demo/services/UsuarioService.java
+/home/juan/laboratorio/appengine1/src/main/java/com/example/demo/controllers/HolaController.java
+/home/juan/laboratorio/appengine1/src/main/java/com/example/demo/repositories/UsuarioRepository.java
+/home/juan/laboratorio/appengine1/src/main/java/com/example/demo/models/UsuarioModel.java
+/home/juan/laboratorio/appengine1/src/main/java/com/example/demo/config/CORSConfig.java
